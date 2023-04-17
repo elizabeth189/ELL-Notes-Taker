@@ -8,7 +8,7 @@ I wanted to create this Notes app that would allow my users to easily keep track
 
 npm i
 
-## Usagef
+## Usage
 
 The [website](https://git.heroku.com/fierce-cove-12037.git) created allows you to use my notes app! ![Web1](./public/assets/images/Web1.PNG)
 
