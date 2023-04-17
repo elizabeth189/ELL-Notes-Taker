@@ -8,15 +8,12 @@ I wanted to create this Notes app that would allow my users to easily keep track
 
 npm i
 
-## Usage
+## Usagef
 
-The [website](https://elizabeth189.github.io/Challenge-1/) created allows you to learn more about Horiseon Solutions by clicking on one of the headers located on the R side of the page. ![Horiseon1](./assets/images/Horiseon1.PNG)
+The [website](https://git.heroku.com/fierce-cove-12037.git) created allows you to use my notes app! ![Web1](./public/assets/images/Web1.PNG)
 
-You can also scroll down on the webpage to read about Horiseon. ![Horiseon2](./assets/images/Horiseon2.PNG)
+Feel free to browse through my [repo](https://github.com/elizabeth189/ELL-Notes-Taker) 
 
-You can look through both the HTML and CSS files to view how accessible the website was made. 
-
-l.
 
 ## License
 
